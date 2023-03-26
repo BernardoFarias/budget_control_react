@@ -27,7 +27,6 @@ const Modal = ({
         setId(editExpense.id)
     }
     },[])
-
     const hideModal = () => {
 
     setAnimateModal(false)
